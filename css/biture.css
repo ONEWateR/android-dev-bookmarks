@@ -140,7 +140,7 @@ blockquote footer {
 
 .brand {
   display: inline-block;
-  padding: 7px 20px 5px 0;
+  padding: 5px 20px 5px 20px;
   font-size: 20px;
 }
 
@@ -335,7 +335,7 @@ article {
 }
 
 .article-entry {
-  margin: 15px 0 35px 0;
+  margin: 15px 0 35px 20px;
   text-align:justify !important;
 }
 
@@ -352,7 +352,7 @@ article {
   color: #222;
 }
 .article-title h1 {
-  margin: 15px 0 20px 0;
+  margin: 15px 0 20px 20px;
   text-shadow: #ccc 1px 1px 2px;
   line-height: 1.3em;
 }
